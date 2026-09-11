@@ -1,6 +1,13 @@
-# 👋 Olá, me chamo Samuel!
+<h1 align="center">
+ 👋 Olá, me chamo Samuel!
+</h1>
 
-💻 **Estudante de Robótica | Desenvolvedor Java em formação | FRC**
+
+<p align="center">
+💻 <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
+</p>
+
+---
 
 About me:
 
