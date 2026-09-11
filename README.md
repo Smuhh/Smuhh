@@ -36,7 +36,7 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e WPIL
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Ferramentas que utilizo
 
 <p align="left">
 
