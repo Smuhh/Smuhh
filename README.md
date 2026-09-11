@@ -18,9 +18,7 @@ Atualmente faço parte da equipe **MTECH #9603**, equipe participante da **FIRST
 
 Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com foco em **Java**. Busco transformar o que aprendo em projetos e desenvolver cada vez mais minhas habilidades através da robótica.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
+---
 
 ##  Robótica & FRC
 
