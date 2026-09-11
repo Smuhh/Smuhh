@@ -57,10 +57,6 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e WPIL
 ### 📚 Atualmente aprendendo
 
 ```text
-Java
- ├── Lógica de programação
- ├── Condicionais
- ├── Loops
- ├── Arrays
- └── Programação Orientada a Objetos (POO)
+Java, Lógica de programação, Loops, Arrays, Programação Orientada a Objetos (POO)
+
 
