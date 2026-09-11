@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000003ec0820e8a69942f986e8ad1&ts=496972&p=fs&cid=1&sig=a9e580e4d6c906da4f12c018a5fd12546dd979437aa9b27bf5bb7ebabf73af3a&v=0" width="100%">
+  <img src="./assets/ola_sou_o_smuh_letras_clean.gif" alt="Olá sou o Smuh">
 </p>
 
 ##  Sobre mim
