@@ -12,10 +12,6 @@
   <img src="./ola_sou_o_smuh_letras_clean.gif" width="760">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="760">
-</p>
-
 ##  Sobre mim
 
 Atualmente faço parte da equipe **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, a maior competição de robótica do mundo. 
