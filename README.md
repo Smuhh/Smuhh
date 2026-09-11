@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💻 <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
+   <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
 </p>
 
 ---
