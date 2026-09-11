@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/ola_sou_o_smuh_letras_clean.gif" width="760">
+  <img src="./ola_sou_o_smuh_letras_clean.gif" width="760">
 </p>
 
 ##  Sobre mim
