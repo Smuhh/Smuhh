@@ -12,15 +12,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </p>
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
-Atualmente faço parte da **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, a maior competição de robótica do mundo. 🤖
+Atualmente faço parte da **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, a maior competição de robótica do mundo. 
 
 Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com foco em **Java**. Busco transformar o que aprendo em projetos e desenvolver cada vez mais minhas habilidades através da robótica.
 
 ---
 
-## 🤖 Robótica & FRC
+##  Robótica & FRC
 
 **MTECH #9603 — FIRST Robotics Competition**
 
@@ -58,7 +58,7 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e WPIL
 
 </p>
 
-### 📚 Atualmente aprendendo
+###  Atualmente aprendendo
 
 > **Java** • **Lógica de programação** • **Loops** • **Arrays** • **POO**
 
