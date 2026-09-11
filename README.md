@@ -41,9 +41,32 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e sobr
 
 </div>
 
-### Atualmente estudando
+### Atualmente estudando:
+<p align="center">
 
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" height="50">
+  </a>
+
+  <a href="https://wpilib.org/">
+    <img src="https://avatars.githubusercontent.com/u/3260877?s=200&v=4" height="50">
+  </a>
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50">
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="50">
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="50">
+  </a>
+
+</p>
 ```text
+
 Java
  ├── Lógica de programação
  ├── Condicionais
