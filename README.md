@@ -68,3 +68,17 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e WPIL
 ---------------------------------------------------------------------------------
 Java, Lógica de programação, Loops, Arrays, Programação Orientada a Objetos (POO)
 ---------------------------------------------------------------------------------
+
+## 🌐 Connect with me
+
+<p align="center">
+
+  <a href="https://github.com/Smuhh">
+    <img src="https://skillicons.dev/icons?i=github" height="45">
+  </a>
+
+  <a href="https://www.instagram.com/smuhzzz/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45">
+  </a>
+
+</p>
