@@ -38,25 +38,7 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e WPIL
 
 ## Ferramentas que utilizo
 
-<p align="left">
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</a>
-
-<a href="https://wpilib.org/" target="_blank">
-<img src="https://img.shields.io/badge/WPILIB-000000?style=for-the-badge&logo=wpilib&logoColor=white">
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
+<p align="left"><a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a><a href="https://wpilib.org/" target="_blank"><img src="https://img.shields.io/badge/WPILIB-000000?style=for-the-badge&logo=wpilib&logoColor=white"></a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a><a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
 ###  Atualmente aprendendo
 
