@@ -22,11 +22,11 @@ Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com f
 
 Minha experiência com robótica me permite unir diferentes áreas, como:
 
-- 💻 Programação
-- ⚡ Eletrônica
-- ⚙️ Mecânica
-- 🧩 Desenvolvimento de sistemas
-- 🤖 Controle e programação de robôs
+-  Programação
+-  Eletrônica
+-  Mecânica
+-  Desenvolvimento de sistemas
+-  Controle e programação de robôs
 
 Atualmente, meu principal foco dentro da programação é aprender **Java e WPILib** para desenvolvimento de robôs FRC.
 
