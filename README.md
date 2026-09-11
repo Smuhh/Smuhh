@@ -8,15 +8,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-Atualmente faço parte da **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, uma das maiores competições de robótica do mundo. 🤖
+Atualmente faço parte da **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, a maior competição de robótica do mundo. 🤖
 
 Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com foco em **Java**. Busco transformar o que aprendo em projetos e desenvolver cada vez mais minhas habilidades através da robótica.
 
 ---
 
-## 🤖 Robotics & FRC
+## 🤖 Robotica & FRC
 
 **MTECH #9603 — FIRST Robotics Competition**
 
@@ -54,7 +54,7 @@ Atualmente, meu principal foco dentro da programação é aprender **Java e WPIL
 
 </p>
 
-### 📚 Currently Learning
+### 📚 Atualmente aprendendo
 
 ```text
 Java
@@ -62,4 +62,5 @@ Java
  ├── Condicionais
  ├── Loops
  ├── Arrays
- └── Programação Orientada a Objetos
+ └── Programação Orientada a Objetos (POO)
+
