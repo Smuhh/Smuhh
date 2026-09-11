@@ -1,19 +1,18 @@
 <h1 align="center">
- 👋 Olá, me chamo Samuel!
+  👋 Olá, me chamo Samuel!
 </h1>
 
-
 <p align="center">
-💻 <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
+  💻 <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
 </p>
 
 ---
 
-About me:
+## 👨‍💻 About Me
 
 Atualmente faço parte da **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, uma das maiores competições de robótica do mundo. 🤖
 
-Tenho apenas 15 anos e estou iniciando minha jornada na programação e atualmente estou focado em **Java**, buscando transformar conhecimento em projetos e, principalmente, aprender cada vez mais através da robótica.
+Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com foco em **Java**. Busco transformar o que aprendo em projetos e desenvolver cada vez mais minhas habilidades através da robótica.
 
 ---
 
@@ -23,124 +22,48 @@ Tenho apenas 15 anos e estou iniciando minha jornada na programação e atualmen
 
 Minha experiência com robótica me permite unir diferentes áreas, como:
 
-* 💻 Programação
-* ⚡ Eletrônica
-* ⚙️ Mecânica
-* 🧩 Desenvolvimento de sistemas
-* 🤖 Controle e programação de robôs
+- 💻 Programação
+- ⚡ Eletrônica
+- ⚙️ Mecânica
+- 🧩 Desenvolvimento de sistemas
+- 🤖 Controle e programação de robôs
 
-Atualmente, meu principal foco dentro da programação é aprender **Java e sobre a WPILib** para desenvolvimento de robôs FRC.
+Atualmente, meu principal foco dentro da programação é aprender **Java e WPILib** para desenvolvimento de robôs FRC.
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+<p align="left">
 
-<!-- Badges de tecnologias serão adicionados aqui -->
+<a href="https://www.java.com/" target="_blank">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</a>
 
-</div>
+<a href="https://wpilib.org/" target="_blank">
+<img src="https://img.shields.io/badge/WPILIB-000000?style=for-the-badge&logo=wpilib&logoColor=white">
+</a>
 
-### Atualmente estudando:
-<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
 
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" height="50">
-  </a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
 
-  <a href="https://wpilib.org/">
-    <img src="https://avatars.githubusercontent.com/u/3260877?s=200&v=4" height="50">
-  </a>
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50">
-  </a>
-
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="50">
-  </a>
-
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="50">
-  </a>
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
-```text
 
+### 📚 Currently Learning
+
+```text
 Java
  ├── Lógica de programação
  ├── Condicionais
  ├── Loops
  ├── Arrays
- └── Programação orientada a objetos
-```
-
-Meu objetivo é evoluir gradualmente de conceitos básicos para aplicações reais dentro da programação de robôs.
-
----
-
-## 🚀 Projetos
-
-Aqui estão alguns dos projetos que venho desenvolvendo durante minha jornada na programação e na robótica.
-
-### 📌 Projeto 01
-
-**Nome do projeto**
-
-Breve descrição do projeto e das tecnologias utilizadas.
-
-`Java` `Git`
-
-[🔗 Ver projeto](#)
-
----
-
-### 📌 Projeto 02
-
-**Nome do projeto**
-
-Breve descrição do projeto e das tecnologias utilizadas.
-
-`Java` `WPILib`
-
-[🔗 Ver projeto](#)
-
----
-
-### 📌 Projeto 03
-
-**Nome do projeto**
-
-Breve descrição do projeto e das tecnologias utilizadas.
-
-`Java`
-
-[🔗 Ver projeto](#)
-
----
-
-## 🎓 Futuro
-
-Pretendo seguir carreira na área de tecnologia e futuramente cursar:
-
-* 🎓 Engenharia de Software
-* 🎓 Engenharia da Computação
-
-Meu objetivo é continuar desenvolvendo minhas habilidades em programação e tecnologia, enquanto ganho experiência através de projetos e da robótica.
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://github.com/Smuhh">
-    <img src="https://img.shields.io/badge/GitHub-Smuhh-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.instagram.com/smuhzzz/">
-    <img src="https://img.shields.io/badge/Instagram-smuhzzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
-
----
-
-##  Ainda estou construindo minha experiência e meus projetos, mas cada novo conceito aprendido é mais um passo nessa jornada.
+ └── Programação Orientada a Objetos
