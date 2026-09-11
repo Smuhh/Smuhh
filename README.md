@@ -14,7 +14,7 @@
 
 ##  Sobre mim
 
-Atualmente faço parte da **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, a maior competição de robótica do mundo. 
+Atualmente faço parte da equipe **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**, a maior competição de robótica do mundo. 
 
 Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com foco em **Java**. Busco transformar o que aprendo em projetos e desenvolver cada vez mais minhas habilidades através da robótica.
 
