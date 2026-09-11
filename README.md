@@ -16,17 +16,25 @@ Tenho 15 anos e estou iniciando minha jornada na programação, atualmente com f
 
 ---
 
-## 🤖 Robotica & FRC
+## 🤖 Robótica & FRC
+
+<!-- ==================== GIF ==================== -->
+
+<p align="center">
+  <img src="COLE_O_LINK_DO_SEU_GIF_AQUI" width="300">
+</p>
+
+<!-- ============================================= -->
 
 **MTECH #9603 — FIRST Robotics Competition**
 
 Minha experiência com robótica me permite unir diferentes áreas, como:
 
--  Programação
--  Eletrônica
--  Mecânica
--  Desenvolvimento de sistemas
--  Controle e programação de robôs
+- Programação
+- Eletrônica
+- Mecânica
+- Desenvolvimento de sistemas
+- Controle e programação de robôs
 
 Atualmente, meu principal foco dentro da programação é aprender **Java e WPILib** para desenvolvimento de robôs FRC.
 
