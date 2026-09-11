@@ -6,8 +6,6 @@
    <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
 </p>
 
----
-
 <p align="center">
   <img src="./ola_sou_o_smuh_letras_clean.gif" width="760">
 </p>
