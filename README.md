@@ -6,10 +6,6 @@
    <strong>Estudante de Robótica | Desenvolvedor Java em formação | FRC</strong>
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=smuhh&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F310806079%3Fu%3D4374c72678fd89282fb65bfc5c15848bb19f2092%26v%3D4" alt="smuhh hero visual" />
-</p>
-
 ##  Sobre mim
 
 Atualmente faço parte da equipe **MTECH #9603**, equipe participante da **FIRST Robotics Competition (FRC)**
